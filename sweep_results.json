@@ -1,0 +1,3233 @@
+{
+  "10_30_10_1": {
+    "inner_diameter": 10,
+    "outer_diameter": 30,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 164.5174334035236,
+    "force_lbs": 36.984999686012735,
+    "force_kg": 16.77610941590896
+  },
+  "10_30_10_5": {
+    "inner_diameter": 10,
+    "outer_diameter": 30,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 72.32133288388059,
+    "force_lbs": 16.258486524292312,
+    "force_kg": 7.374723568586683
+  },
+  "10_30_10_10": {
+    "inner_diameter": 10,
+    "outer_diameter": 30,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 35.8192136664199,
+    "force_lbs": 8.052481605134192,
+    "force_kg": 3.652543291176895
+  },
+  "10_30_10_20": {
+    "inner_diameter": 10,
+    "outer_diameter": 30,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 12.09580981661414,
+    "force_lbs": 2.7192469090632083,
+    "force_kg": 1.2334293379099022
+  },
+  "10_30_10_25": {
+    "inner_diameter": 10,
+    "outer_diameter": 30,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 7.991368430566373,
+    "force_lbs": 1.796531545507196,
+    "force_kg": 0.8148927952528513
+  },
+  "10_30_25_1": {
+    "inner_diameter": 10,
+    "outer_diameter": 30,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 263.3053351242335,
+    "force_lbs": 59.19340908394381,
+    "force_kg": 26.84967191897677
+  },
+  "10_30_25_5": {
+    "inner_diameter": 10,
+    "outer_diameter": 30,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 138.5216171162973,
+    "force_lbs": 31.140906222297684,
+    "force_kg": 14.125273882140926
+  },
+  "10_30_25_10": {
+    "inner_diameter": 10,
+    "outer_diameter": 30,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 77.71563349814723,
+    "force_lbs": 17.47117385108498,
+    "force_kg": 7.924789147991132
+  },
+  "10_30_25_20": {
+    "inner_diameter": 10,
+    "outer_diameter": 30,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 31.6491416041246,
+    "force_lbs": 7.115011874881648,
+    "force_kg": 3.2273142820560135
+  },
+  "10_30_25_25": {
+    "inner_diameter": 10,
+    "outer_diameter": 30,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 21.44195658985583,
+    "force_lbs": 4.820344819008899,
+    "force_kg": 2.186471077264492
+  },
+  "10_30_50_1": {
+    "inner_diameter": 10,
+    "outer_diameter": 30,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 308.9782630826937,
+    "force_lbs": 69.46109434535728,
+    "force_kg": 31.507014432318243
+  },
+  "10_30_50_5": {
+    "inner_diameter": 10,
+    "outer_diameter": 30,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 173.1961632138154,
+    "force_lbs": 38.93605625593462,
+    "force_kg": 17.6610935654699
+  },
+  "10_30_50_10": {
+    "inner_diameter": 10,
+    "outer_diameter": 30,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 102.3952908241756,
+    "force_lbs": 23.019382934892093,
+    "force_kg": 10.441413818600196
+  },
+  "10_30_50_20": {
+    "inner_diameter": 10,
+    "outer_diameter": 30,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 45.41822955916064,
+    "force_lbs": 10.210426768965345,
+    "force_kg": 4.631370504622949
+  },
+  "10_30_50_25": {
+    "inner_diameter": 10,
+    "outer_diameter": 30,
+    "thickness": 50,
+    "gap": 25,
+    "force_N": 33.00934704115441,
+    "force_lbs": 7.420798298974883,
+    "force_kg": 3.366016635768016
+  },
+  "10_110_10_1": {
+    "inner_diameter": 10,
+    "outer_diameter": 110,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 778.7666497458548,
+    "force_lbs": 175.0737517627159,
+    "force_kg": 79.41209788723518
+  },
+  "10_110_10_5": {
+    "inner_diameter": 10,
+    "outer_diameter": 110,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 480.876725283054,
+    "force_lbs": 108.10541573415809,
+    "force_kg": 49.03577932148634
+  },
+  "10_110_10_10": {
+    "inner_diameter": 10,
+    "outer_diameter": 110,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 323.2008947768618,
+    "force_lbs": 72.65846995389153,
+    "force_kg": 32.95731924529394
+  },
+  "10_110_10_20": {
+    "inner_diameter": 10,
+    "outer_diameter": 110,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 184.510415909009,
+    "force_lbs": 41.479602090088406,
+    "force_kg": 18.814826256571713
+  },
+  "10_110_10_25": {
+    "inner_diameter": 10,
+    "outer_diameter": 110,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 145.1566461405978,
+    "force_lbs": 32.63252046222165,
+    "force_kg": 14.80185854910676
+  },
+  "10_110_25_1": {
+    "inner_diameter": 10,
+    "outer_diameter": 110,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 1938.024075463232,
+    "force_lbs": 435.6852543808138,
+    "force_kg": 197.62345708914177
+  },
+  "10_110_25_5": {
+    "inner_diameter": 10,
+    "outer_diameter": 110,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 1409.660147115986,
+    "force_lbs": 316.9042880129977,
+    "force_kg": 143.74533068030226
+  },
+  "10_110_25_10": {
+    "inner_diameter": 10,
+    "outer_diameter": 110,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 1053.702280306505,
+    "force_lbs": 236.88175593342507,
+    "force_kg": 107.44772988803567
+  },
+  "10_110_25_20": {
+    "inner_diameter": 10,
+    "outer_diameter": 110,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 637.2992947744858,
+    "force_lbs": 143.27061715895738,
+    "force_kg": 64.98644234009431
+  },
+  "10_110_25_25": {
+    "inner_diameter": 10,
+    "outer_diameter": 110,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 516.6782506254721,
+    "force_lbs": 116.15392084486176,
+    "force_kg": 52.68651890558673
+  },
+  "10_110_50_1": {
+    "inner_diameter": 10,
+    "outer_diameter": 110,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 3229.750036793292,
+    "force_lbs": 726.0768760214632,
+    "force_kg": 329.34284763841805
+  },
+  "10_110_50_5": {
+    "inner_diameter": 10,
+    "outer_diameter": 110,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 2521.576877314803,
+    "force_lbs": 566.8731762122635,
+    "force_kg": 257.1292824068161
+  },
+  "10_110_50_10": {
+    "inner_diameter": 10,
+    "outer_diameter": 110,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 1985.77089099233,
+    "force_lbs": 446.4191682330947,
+    "force_kg": 202.4922772804505
+  },
+  "10_110_50_20": {
+    "inner_diameter": 10,
+    "outer_diameter": 110,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 1343.218937461233,
+    "force_lbs": 301.96770611172235,
+    "force_kg": 136.97021281082053
+  },
+  "10_110_50_25": {
+    "inner_diameter": 10,
+    "outer_diameter": 110,
+    "thickness": 50,
+    "gap": 25,
+    "force_N": 1131.197915762726,
+    "force_lbs": 254.3034722447027,
+    "force_kg": 115.35008547900927
+  },
+  "10_210_10_1": {
+    "inner_diameter": 10,
+    "outer_diameter": 210,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 1482.718763943898,
+    "force_lbs": 333.3285226034638,
+    "force_kg": 151.19523628801866
+  },
+  "10_210_10_5": {
+    "inner_diameter": 10,
+    "outer_diameter": 210,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 946.8823743898369,
+    "force_lbs": 212.86767970420485,
+    "force_kg": 96.55513089483533
+  },
+  "10_210_10_10": {
+    "inner_diameter": 10,
+    "outer_diameter": 210,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 661.8528933427094,
+    "force_lbs": 148.79048709948117,
+    "force_kg": 67.49021259479123
+  },
+  "10_210_10_20": {
+    "inner_diameter": 10,
+    "outer_diameter": 210,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 410.5142076425247,
+    "force_lbs": 92.28728850590834,
+    "force_kg": 41.86079931908702
+  },
+  "10_210_10_25": {
+    "inner_diameter": 10,
+    "outer_diameter": 210,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 340.0658795401965,
+    "force_lbs": 76.44987031355203,
+    "force_kg": 34.67706908477375
+  },
+  "10_210_25_1": {
+    "inner_diameter": 10,
+    "outer_diameter": 210,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 4001.449467845482,
+    "force_lbs": 899.561853416875,
+    "force_kg": 408.0342897773941
+  },
+  "10_210_25_5": {
+    "inner_diameter": 10,
+    "outer_diameter": 210,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 3042.486261246632,
+    "force_lbs": 683.9782939045941,
+    "force_kg": 310.2472568355791
+  },
+  "10_210_25_10": {
+    "inner_diameter": 10,
+    "outer_diameter": 210,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 2392.347325899106,
+    "force_lbs": 537.8212099880521,
+    "force_kg": 243.95153552937103
+  },
+  "10_210_25_20": {
+    "inner_diameter": 10,
+    "outer_diameter": 210,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 1664.073162830347,
+    "force_lbs": 374.0986236627275,
+    "force_kg": 169.6882383719565
+  },
+  "10_210_25_25": {
+    "inner_diameter": 10,
+    "outer_diameter": 210,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 1442.117032410119,
+    "force_lbs": 324.20088793908644,
+    "force_kg": 147.05501189602148
+  },
+  "10_210_50_1": {
+    "inner_diameter": 10,
+    "outer_diameter": 210,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 7704.655998968487,
+    "force_lbs": 1732.0760104721069,
+    "force_kg": 785.6562637565823
+  },
+  "10_210_50_5": {
+    "inner_diameter": 10,
+    "outer_diameter": 210,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 6367.506694307904,
+    "force_lbs": 1431.4728124406656,
+    "force_kg": 649.3049812431262
+  },
+  "10_210_50_10": {
+    "inner_diameter": 10,
+    "outer_diameter": 210,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 5327.643548695619,
+    "force_lbs": 1197.7022185387134,
+    "force_kg": 543.2684503572187
+  },
+  "10_210_50_20": {
+    "inner_diameter": 10,
+    "outer_diameter": 210,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 3998.717079084018,
+    "force_lbs": 898.9475878317991,
+    "force_kg": 407.7556636653718
+  },
+  "10_210_50_25": {
+    "inner_diameter": 10,
+    "outer_diameter": 210,
+    "thickness": 50,
+    "gap": 25,
+    "force_N": 3510.13226343641,
+    "force_lbs": 789.109324010876,
+    "force_kg": 357.933877872302
+  },
+  "10_410_10_1": {
+    "inner_diameter": 10,
+    "outer_diameter": 410,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 2883.678197627307,
+    "force_lbs": 648.2768119303972,
+    "force_kg": 294.0533411131535
+  },
+  "10_410_10_5": {
+    "inner_diameter": 10,
+    "outer_diameter": 410,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 1838.091540519979,
+    "force_lbs": 413.219521132756,
+    "force_kg": 187.4331744805799
+  },
+  "10_410_10_10": {
+    "inner_diameter": 10,
+    "outer_diameter": 410,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 1319.522131756532,
+    "force_lbs": 296.6404509180542,
+    "force_kg": 134.55381111353338
+  },
+  "10_410_10_20": {
+    "inner_diameter": 10,
+    "outer_diameter": 410,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 849.052491101669,
+    "force_lbs": 190.87464147207513,
+    "force_kg": 86.57925908456701
+  },
+  "10_410_10_25": {
+    "inner_diameter": 10,
+    "outer_diameter": 410,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 718.2135227224926,
+    "force_lbs": 161.46086382972084,
+    "force_kg": 73.23739735001175
+  },
+  "10_410_25_1": {
+    "inner_diameter": 10,
+    "outer_diameter": 410,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 7956.073408782385,
+    "force_lbs": 1788.5969069549592,
+    "force_kg": 811.293704657797
+  },
+  "10_410_25_5": {
+    "inner_diameter": 10,
+    "outer_diameter": 410,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 6168.371230648217,
+    "force_lbs": 1386.705367990795,
+    "force_kg": 628.9988151558603
+  },
+  "10_410_25_10": {
+    "inner_diameter": 10,
+    "outer_diameter": 410,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 4950.619992937091,
+    "force_lbs": 1112.9439299921946,
+    "force_kg": 504.8227471090629
+  },
+  "10_410_25_20": {
+    "inner_diameter": 10,
+    "outer_diameter": 410,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 3604.505483082584,
+    "force_lbs": 810.3252731463126,
+    "force_kg": 367.55726808671506
+  },
+  "10_410_25_25": {
+    "inner_diameter": 10,
+    "outer_diameter": 410,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 3175.905706478057,
+    "force_lbs": 713.9721859676255,
+    "force_kg": 323.8522539784796
+  },
+  "10_410_50_1": {
+    "inner_diameter": 10,
+    "outer_diameter": 410,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 16292.38215599749,
+    "force_lbs": 3662.6741401076397,
+    "force_kg": 1661.3606232502934
+  },
+  "10_410_50_5": {
+    "inner_diameter": 10,
+    "outer_diameter": 410,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 13754.3000244534,
+    "force_lbs": 3092.0904341973446,
+    "force_kg": 1402.5482733097847
+  },
+  "10_410_50_10": {
+    "inner_diameter": 10,
+    "outer_diameter": 410,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 11826.08066871116,
+    "force_lbs": 2658.609369052287,
+    "force_kg": 1205.924619386963
+  },
+  "10_410_50_20": {
+    "inner_diameter": 10,
+    "outer_diameter": 410,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 9345.234030230087,
+    "force_lbs": 2100.892717101996,
+    "force_kg": 952.9486654698687
+  },
+  "10_410_50_25": {
+    "inner_diameter": 10,
+    "outer_diameter": 410,
+    "thickness": 50,
+    "gap": 25,
+    "force_N": 8426.994067997828,
+    "force_lbs": 1894.4641094325239,
+    "force_kg": 859.3142477806211
+  },
+  "50_70_10_1": {
+    "inner_diameter": 50,
+    "outer_diameter": 70,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 509.9088209637376,
+    "force_lbs": 114.63209213203689,
+    "force_kg": 51.99622918771829
+  },
+  "50_70_10_5": {
+    "inner_diameter": 50,
+    "outer_diameter": 70,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 213.0637928442872,
+    "force_lbs": 47.89865820553136,
+    "force_kg": 21.726460396189037
+  },
+  "50_70_10_10": {
+    "inner_diameter": 50,
+    "outer_diameter": 70,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 94.60943533048163,
+    "force_lbs": 21.269052547210247,
+    "force_kg": 9.647477510717895
+  },
+  "50_70_10_20": {
+    "inner_diameter": 50,
+    "outer_diameter": 70,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 28.45466334426759,
+    "force_lbs": 6.396864411761453,
+    "force_kg": 2.901568154697842
+  },
+  "50_70_10_25": {
+    "inner_diameter": 50,
+    "outer_diameter": 70,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 17.8510816728631,
+    "force_lbs": 4.013083819794681,
+    "force_kg": 1.8203037401011661
+  },
+  "50_70_25_1": {
+    "inner_diameter": 50,
+    "outer_diameter": 70,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 754.1240210615113,
+    "force_lbs": 169.5338670508173,
+    "force_kg": 76.89924908725317
+  },
+  "50_70_25_5": {
+    "inner_diameter": 50,
+    "outer_diameter": 70,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 368.0415017710426,
+    "force_lbs": 82.73904197164632,
+    "force_kg": 37.52978864046771
+  },
+  "50_70_25_10": {
+    "inner_diameter": 50,
+    "outer_diameter": 70,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 186.4694876654349,
+    "force_lbs": 41.92001905257876,
+    "force_kg": 19.01459597981318
+  },
+  "50_70_25_20": {
+    "inner_diameter": 50,
+    "outer_diameter": 70,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 68.63656848151356,
+    "force_lbs": 15.430118323760583,
+    "force_kg": 6.998982168376925
+  },
+  "50_70_25_25": {
+    "inner_diameter": 50,
+    "outer_diameter": 70,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 45.59338603777406,
+    "force_lbs": 10.24980352176595,
+    "force_kg": 4.649231494727972
+  },
+  "50_70_50_1": {
+    "inner_diameter": 50,
+    "outer_diameter": 70,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 866.934305755455,
+    "force_lbs": 194.8946343425781,
+    "force_kg": 88.40269671656019
+  },
+  "50_70_50_5": {
+    "inner_diameter": 50,
+    "outer_diameter": 70,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 451.2280900154756,
+    "force_lbs": 101.44013568828905,
+    "force_kg": 46.01245991398445
+  },
+  "50_70_50_10": {
+    "inner_diameter": 50,
+    "outer_diameter": 70,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 254.3155431904209,
+    "force_lbs": 57.172422949095335,
+    "force_kg": 25.932968260356077
+  },
+  "50_70_50_20": {
+    "inner_diameter": 50,
+    "outer_diameter": 70,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 118.6488447822125,
+    "force_lbs": 26.673328146644412,
+    "force_kg": 12.098815067552376
+  },
+  "50_70_50_25": {
+    "inner_diameter": 50,
+    "outer_diameter": 70,
+    "thickness": 50,
+    "gap": 25,
+    "force_N": 88.64268353740259,
+    "force_lbs": 19.92767304335994,
+    "force_kg": 9.039038156496112
+  },
+  "50_150_10_1": {
+    "inner_diameter": 50,
+    "outer_diameter": 150,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 1328.83014541313,
+    "force_lbs": 298.7329761601803,
+    "force_kg": 135.50296435715867
+  },
+  "50_150_10_5": {
+    "inner_diameter": 50,
+    "outer_diameter": 150,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 819.078934963527,
+    "force_lbs": 184.13631629021555,
+    "force_kg": 83.52280696910026
+  },
+  "50_150_10_10": {
+    "inner_diameter": 50,
+    "outer_diameter": 150,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 541.0402267876054,
+    "force_lbs": 121.6307123438948,
+    "force_kg": 55.17074911285765
+  },
+  "50_150_10_20": {
+    "inner_diameter": 50,
+    "outer_diameter": 150,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 289.6515627745797,
+    "force_lbs": 65.11627817579048,
+    "force_kg": 29.53623946756331
+  },
+  "50_150_10_25": {
+    "inner_diameter": 50,
+    "outer_diameter": 150,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 219.6508784419754,
+    "force_lbs": 49.37949433166205,
+    "force_kg": 22.398156194212643
+  },
+  "50_150_25_1": {
+    "inner_diameter": 50,
+    "outer_diameter": 150,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 3186.734564006966,
+    "force_lbs": 716.4066105998421,
+    "force_kg": 324.9564901375053
+  },
+  "50_150_25_5": {
+    "inner_diameter": 50,
+    "outer_diameter": 150,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 2274.198468714882,
+    "force_lbs": 511.2602835533239,
+    "force_kg": 231.9037050078143
+  },
+  "50_150_25_10": {
+    "inner_diameter": 50,
+    "outer_diameter": 150,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 1656.934087494573,
+    "force_lbs": 372.4936952755675,
+    "force_kg": 168.96025528540054
+  },
+  "50_150_25_20": {
+    "inner_diameter": 50,
+    "outer_diameter": 150,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 992.0600955150405,
+    "force_lbs": 223.02403801264074,
+    "force_kg": 101.1619763645119
+  },
+  "50_150_25_25": {
+    "inner_diameter": 50,
+    "outer_diameter": 150,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 794.7919852412351,
+    "force_lbs": 178.67639141009684,
+    "force_kg": 81.04622732954017
+  },
+  "50_150_50_1": {
+    "inner_diameter": 50,
+    "outer_diameter": 150,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 5156.575184226338,
+    "force_lbs": 1159.2445105907389,
+    "force_kg": 525.8243318795245
+  },
+  "50_150_50_5": {
+    "inner_diameter": 50,
+    "outer_diameter": 150,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 3962.049442246252,
+    "force_lbs": 890.7043730619378,
+    "force_kg": 404.0166052878661
+  },
+  "50_150_50_10": {
+    "inner_diameter": 50,
+    "outer_diameter": 150,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 3071.038495580447,
+    "force_lbs": 690.3970931529448,
+    "force_kg": 313.1587744622728
+  },
+  "50_150_50_20": {
+    "inner_diameter": 50,
+    "outer_diameter": 150,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 1999.339364360126,
+    "force_lbs": 449.46948316243555,
+    "force_kg": 203.8758765083006
+  },
+  "50_150_50_25": {
+    "inner_diameter": 50,
+    "outer_diameter": 150,
+    "thickness": 50,
+    "gap": 25,
+    "force_N": 1660.941404221539,
+    "force_lbs": 373.39457614163996,
+    "force_kg": 169.36888786910302
+  },
+  "50_250_10_1": {
+    "inner_diameter": 50,
+    "outer_diameter": 250,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 2059.742567004711,
+    "force_lbs": 463.0486667457621,
+    "force_kg": 210.03528901354807
+  },
+  "50_250_10_5": {
+    "inner_diameter": 50,
+    "outer_diameter": 250,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 1291.881256365999,
+    "force_lbs": 290.42653336238385,
+    "force_kg": 131.73522623587047
+  },
+  "50_250_10_10": {
+    "inner_diameter": 50,
+    "outer_diameter": 250,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 906.1493828668099,
+    "force_lbs": 203.71053661290466,
+    "force_kg": 92.40152170892303
+  },
+  "50_250_10_20": {
+    "inner_diameter": 50,
+    "outer_diameter": 250,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 544.0864383372713,
+    "force_lbs": 122.31552811616362,
+    "force_kg": 55.481376243393136
+  },
+  "50_250_10_25": {
+    "inner_diameter": 50,
+    "outer_diameter": 250,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 442.2131781640272,
+    "force_lbs": 99.4135023698768,
+    "force_kg": 45.093194736635574
+  },
+  "50_250_25_1": {
+    "inner_diameter": 50,
+    "outer_diameter": 250,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 5398.192099484344,
+    "force_lbs": 1213.562167692976,
+    "force_kg": 550.4624004613547
+  },
+  "50_250_25_5": {
+    "inner_diameter": 50,
+    "outer_diameter": 250,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 4069.275366525988,
+    "force_lbs": 914.8097258733409,
+    "force_kg": 414.95060663182517
+  },
+  "50_250_25_10": {
+    "inner_diameter": 50,
+    "outer_diameter": 250,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 3156.610764706529,
+    "force_lbs": 709.6345094029101,
+    "force_kg": 321.8847174831904
+  },
+  "50_250_25_20": {
+    "inner_diameter": 50,
+    "outer_diameter": 250,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 2164.318169801122,
+    "force_lbs": 486.5582034348205,
+    "force_kg": 220.6990327788921
+  },
+  "50_250_25_25": {
+    "inner_diameter": 50,
+    "outer_diameter": 250,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 1833.317155059066,
+    "force_lbs": 412.1461963116736,
+    "force_kg": 186.94632265443002
+  },
+  "50_250_50_1": {
+    "inner_diameter": 50,
+    "outer_diameter": 250,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 10064.05705952921,
+    "force_lbs": 2262.490603495702,
+    "force_kg": 1026.248215193691
+  },
+  "50_250_50_5": {
+    "inner_diameter": 50,
+    "outer_diameter": 250,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 8233.70806709225,
+    "force_lbs": 1851.0116768549417,
+    "force_kg": 839.6045608941126
+  },
+  "50_250_50_10": {
+    "inner_diameter": 50,
+    "outer_diameter": 250,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 6845.284572854436,
+    "force_lbs": 1538.881579538833,
+    "force_kg": 698.0247661387361
+  },
+  "50_250_50_20": {
+    "inner_diameter": 50,
+    "outer_diameter": 250,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 5046.110336127442,
+    "force_lbs": 1134.4110185544741,
+    "force_kg": 514.5600522224656
+  },
+  "50_250_50_25": {
+    "inner_diameter": 50,
+    "outer_diameter": 250,
+    "thickness": 50,
+    "gap": 25,
+    "force_N": 4397.991086803602,
+    "force_lbs": 988.7079782332311,
+    "force_kg": 448.4702815746052
+  },
+  "50_450_10_1": {
+    "inner_diameter": 50,
+    "outer_diameter": 450,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 3460.61314943089,
+    "force_lbs": 777.976981510409,
+    "force_kg": 352.88433353192886
+  },
+  "50_450_10_5": {
+    "inner_diameter": 50,
+    "outer_diameter": 450,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 2187.908444456008,
+    "force_lbs": 491.8615094897107,
+    "force_kg": 223.10457133231105
+  },
+  "50_450_10_10": {
+    "inner_diameter": 50,
+    "outer_diameter": 450,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 1559.770511085821,
+    "force_lbs": 350.65044882669235,
+    "force_kg": 159.0523278679081
+  },
+  "50_450_10_20": {
+    "inner_diameter": 50,
+    "outer_diameter": 450,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 986.2894429723879,
+    "force_lbs": 221.72674338517956,
+    "force_kg": 100.57353356879138
+  },
+  "50_450_10_25": {
+    "inner_diameter": 50,
+    "outer_diameter": 450,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 831.7288737283056,
+    "force_lbs": 186.98013637398668,
+    "force_kg": 84.81274173426253
+  },
+  "50_450_25_1": {
+    "inner_diameter": 50,
+    "outer_diameter": 450,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 9362.477099666075,
+    "force_lbs": 2104.769114298831,
+    "force_kg": 954.7069692164068
+  },
+  "50_450_25_5": {
+    "inner_diameter": 50,
+    "outer_diameter": 450,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 7193.29179866297,
+    "force_lbs": 1617.1167359656238,
+    "force_kg": 733.5116271777794
+  },
+  "50_450_25_10": {
+    "inner_diameter": 50,
+    "outer_diameter": 450,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 5748.291500571161,
+    "force_lbs": 1292.2676639519023,
+    "force_kg": 586.1626040055637
+  },
+  "50_450_25_20": {
+    "inner_diameter": 50,
+    "outer_diameter": 450,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 4132.293670920971,
+    "force_lbs": 928.9768078660726,
+    "force_kg": 421.3766853024194
+  },
+  "50_450_25_25": {
+    "inner_diameter": 50,
+    "outer_diameter": 450,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 3609.517601843949,
+    "force_lbs": 811.4520425529363,
+    "force_kg": 368.06836196294853
+  },
+  "50_450_50_1": {
+    "inner_diameter": 50,
+    "outer_diameter": 450,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 18775.55399171589,
+    "force_lbs": 4220.913517323657,
+    "force_kg": 1914.573681299515
+  },
+  "50_450_50_5": {
+    "inner_diameter": 50,
+    "outer_diameter": 450,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 15815.95336833786,
+    "force_lbs": 3555.568660782666,
+    "force_kg": 1612.778407339699
+  },
+  "50_450_50_10": {
+    "inner_diameter": 50,
+    "outer_diameter": 450,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 13483.42727243259,
+    "force_lbs": 3031.195801688298,
+    "force_kg": 1374.9269396208276
+  },
+  "50_450_50_20": {
+    "inner_diameter": 50,
+    "outer_diameter": 450,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 10554.99305685682,
+    "force_lbs": 2372.857434118925,
+    "force_kg": 1076.3097547946363
+  },
+  "50_450_50_25": {
+    "inner_diameter": 50,
+    "outer_diameter": 450,
+    "thickness": 50,
+    "gap": 25,
+    "force_N": 9522.625057650672,
+    "force_lbs": 2140.77181658539,
+    "force_kg": 971.037516139627
+  },
+  "100_120_10_1": {
+    "inner_diameter": 100,
+    "outer_diameter": 120,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 941.7670725849052,
+    "force_lbs": 211.71771382073996,
+    "force_kg": 96.03351527635893
+  },
+  "100_120_10_5": {
+    "inner_diameter": 100,
+    "outer_diameter": 120,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 395.2610232784077,
+    "force_lbs": 88.85823538219556,
+    "force_kg": 40.30540737952387
+  },
+  "100_120_10_10": {
+    "inner_diameter": 100,
+    "outer_diameter": 120,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 177.6308463054543,
+    "force_lbs": 39.93301292708288,
+    "force_kg": 18.113305390266227
+  },
+  "100_120_10_20": {
+    "inner_diameter": 100,
+    "outer_diameter": 120,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 52.15195244975938,
+    "force_lbs": 11.724228278277957,
+    "force_kg": 5.318019145147362
+  },
+  "100_120_10_25": {
+    "inner_diameter": 100,
+    "outer_diameter": 120,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 32.20562088928733,
+    "force_lbs": 7.240113426499796,
+    "force_kg": 3.2840593769826936
+  },
+  "100_120_25_1": {
+    "inner_diameter": 100,
+    "outer_diameter": 120,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 1400.463223385444,
+    "force_lbs": 314.8367367860583,
+    "force_kg": 142.80750545654675
+  },
+  "100_120_25_5": {
+    "inner_diameter": 100,
+    "outer_diameter": 120,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 683.8943116886218,
+    "force_lbs": 153.7455963164074,
+    "force_kg": 69.73781175922683
+  },
+  "100_120_25_10": {
+    "inner_diameter": 100,
+    "outer_diameter": 120,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 349.3659637808565,
+    "force_lbs": 78.54061295161057,
+    "force_kg": 35.625413752999904
+  },
+  "100_120_25_20": {
+    "inner_diameter": 100,
+    "outer_diameter": 120,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 126.6796782185046,
+    "force_lbs": 28.478731780623804,
+    "force_kg": 12.917732173423607
+  },
+  "100_120_25_25": {
+    "inner_diameter": 100,
+    "outer_diameter": 120,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 84.49233768476962,
+    "force_lbs": 18.994637942575373,
+    "force_kg": 8.615820660956558
+  },
+  "100_120_50_1": {
+    "inner_diameter": 100,
+    "outer_diameter": 120,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 1584.119511013826,
+    "force_lbs": 356.1243231515072,
+    "force_kg": 161.53523486754662
+  },
+  "100_120_50_5": {
+    "inner_diameter": 100,
+    "outer_diameter": 120,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 822.4954132644655,
+    "force_lbs": 184.90437136057122,
+    "force_kg": 83.87119080057569
+  },
+  "100_120_50_10": {
+    "inner_diameter": 100,
+    "outer_diameter": 120,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 452.8516233246514,
+    "force_lbs": 101.80512058799157,
+    "force_kg": 46.17801423775208
+  },
+  "100_120_50_20": {
+    "inner_diameter": 100,
+    "outer_diameter": 120,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 194.2793289946621,
+    "force_lbs": 43.675741671961,
+    "force_kg": 19.81097816223299
+  },
+  "100_120_50_25": {
+    "inner_diameter": 100,
+    "outer_diameter": 120,
+    "thickness": 50,
+    "gap": 25,
+    "force_N": 138.3771132638556,
+    "force_lbs": 31.108420455734112,
+    "force_kg": 14.110538590023667
+  },
+  "100_200_10_1": {
+    "inner_diameter": 100,
+    "outer_diameter": 200,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 2025.347857619094,
+    "force_lbs": 455.3164265234909,
+    "force_kg": 206.52800473343027
+  },
+  "100_200_10_5": {
+    "inner_diameter": 100,
+    "outer_diameter": 200,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 1258.559907263818,
+    "force_lbs": 282.9355941920717,
+    "force_kg": 128.3373942440913
+  },
+  "100_200_10_10": {
+    "inner_diameter": 100,
+    "outer_diameter": 200,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 841.2823715118269,
+    "force_lbs": 189.1278486572023,
+    "force_kg": 85.78692739231307
+  },
+  "100_200_10_20": {
+    "inner_diameter": 100,
+    "outer_diameter": 200,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 455.6250149605147,
+    "force_lbs": 102.42860398825836,
+    "force_kg": 46.4608214793548
+  },
+  "100_200_10_25": {
+    "inner_diameter": 100,
+    "outer_diameter": 200,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 352.9166518622981,
+    "force_lbs": 79.33883958851138,
+    "force_kg": 35.987483173387254
+  },
+  "100_200_25_1": {
+    "inner_diameter": 100,
+    "outer_diameter": 200,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 4954.218909753386,
+    "force_lbs": 1113.752998882749,
+    "force_kg": 505.1897344917363
+  },
+  "100_200_25_5": {
+    "inner_diameter": 100,
+    "outer_diameter": 200,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 3571.403711431377,
+    "force_lbs": 802.8836969631765,
+    "force_kg": 364.18182676361215
+  },
+  "100_200_25_10": {
+    "inner_diameter": 100,
+    "outer_diameter": 200,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 2623.225341741487,
+    "force_lbs": 589.7246658515619,
+    "force_kg": 267.49454112683605
+  },
+  "100_200_25_20": {
+    "inner_diameter": 100,
+    "outer_diameter": 200,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 1568.589500269128,
+    "force_lbs": 352.6330369660024,
+    "force_kg": 159.9516144931376
+  },
+  "100_200_25_25": {
+    "inner_diameter": 100,
+    "outer_diameter": 200,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 1254.089141492601,
+    "force_lbs": 281.93052580981015,
+    "force_kg": 127.88150300995763
+  },
+  "100_200_50_1": {
+    "inner_diameter": 100,
+    "outer_diameter": 200,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 7969.205737294714,
+    "force_lbs": 1791.5491725954873,
+    "force_kg": 812.6328294876145
+  },
+  "100_200_50_5": {
+    "inner_diameter": 100,
+    "outer_diameter": 200,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 6119.038173705573,
+    "force_lbs": 1375.6148527925764,
+    "force_kg": 623.9682433558426
+  },
+  "100_200_50_10": {
+    "inner_diameter": 100,
+    "outer_diameter": 200,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 4721.572051818634,
+    "force_lbs": 1061.4518913972952,
+    "force_kg": 481.46635719829237
+  },
+  "100_200_50_20": {
+    "inner_diameter": 100,
+    "outer_diameter": 200,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 3031.664793368503,
+    "force_lbs": 681.5455305323799,
+    "force_kg": 309.14377421122435
+  },
+  "100_200_50_25": {
+    "inner_diameter": 100,
+    "outer_diameter": 200,
+    "thickness": 50,
+    "gap": 25,
+    "force_N": 2493.066862597453,
+    "force_lbs": 560.4638683136709,
+    "force_kg": 254.222069982864
+  },
+  "100_300_10_1": {
+    "inner_diameter": 100,
+    "outer_diameter": 300,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 2774.978836247297,
+    "force_lbs": 623.8402171979186,
+    "force_kg": 282.96909099919924
+  },
+  "100_300_10_5": {
+    "inner_diameter": 100,
+    "outer_diameter": 300,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 1754.426957343055,
+    "force_lbs": 394.41096985333485,
+    "force_kg": 178.90176128882493
+  },
+  "100_300_10_10": {
+    "inner_diameter": 100,
+    "outer_diameter": 300,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 1233.465385204853,
+    "force_lbs": 277.2941197825178,
+    "force_kg": 125.77846514404543
+  },
+  "100_300_10_20": {
+    "inner_diameter": 100,
+    "outer_diameter": 300,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 750.2653339755507,
+    "force_lbs": 168.6663994657096,
+    "force_kg": 76.50577250901691
+  },
+  "100_300_10_25": {
+    "inner_diameter": 100,
+    "outer_diameter": 300,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 612.7854796591565,
+    "force_lbs": 137.75969089669533,
+    "force_kg": 62.48672886858984
+  },
+  "100_300_25_1": {
+    "inner_diameter": 100,
+    "outer_diameter": 300,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 7349.56855927292,
+    "force_lbs": 1652.2491582415857,
+    "force_kg": 749.4474218283431
+  },
+  "100_300_25_5": {
+    "inner_diameter": 100,
+    "outer_diameter": 300,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 5554.984416492935,
+    "force_lbs": 1248.8104916873604,
+    "force_kg": 566.4507672337583
+  },
+  "100_300_25_10": {
+    "inner_diameter": 100,
+    "outer_diameter": 300,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 4362.529906412838,
+    "force_lbs": 980.7359857307637,
+    "force_kg": 444.8542475170255
+  },
+  "100_300_25_20": {
+    "inner_diameter": 100,
+    "outer_diameter": 300,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 2948.928039733305,
+    "force_lbs": 662.9455636844046,
+    "force_kg": 300.70697330212715
+  },
+  "100_300_25_25": {
+    "inner_diameter": 100,
+    "outer_diameter": 300,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 2504.295122871821,
+    "force_lbs": 562.9880822776913,
+    "force_kg": 255.3670338873949
+  },
+  "100_300_50_1": {
+    "inner_diameter": 100,
+    "outer_diameter": 300,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 13642.74904739351,
+    "force_lbs": 3067.012770595488,
+    "force_kg": 1391.173239321635
+  },
+  "100_300_50_5": {
+    "inner_diameter": 100,
+    "outer_diameter": 300,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 11181.87642180893,
+    "force_lbs": 2513.786456510444,
+    "force_kg": 1140.2340678834191
+  },
+  "100_300_50_10": {
+    "inner_diameter": 100,
+    "outer_diameter": 300,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 9238.415515110913,
+    "force_lbs": 2076.8789535365695,
+    "force_kg": 942.0562082985438
+  },
+  "100_300_50_20": {
+    "inner_diameter": 100,
+    "outer_diameter": 300,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 6733.663038004966,
+    "force_lbs": 1513.7880539108585,
+    "force_kg": 686.6425372583876
+  },
+  "100_300_50_25": {
+    "inner_diameter": 100,
+    "outer_diameter": 300,
+    "thickness": 50,
+    "gap": 25,
+    "force_N": 5884.341972468394,
+    "force_lbs": 1322.8530344886472,
+    "force_kg": 600.0358912032543
+  },
+  "100_500_10_1": {
+    "inner_diameter": 100,
+    "outer_diameter": 500,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 4159.046291229208,
+    "force_lbs": 934.9910376849471,
+    "force_kg": 424.10469336921454
+  },
+  "100_500_10_5": {
+    "inner_diameter": 100,
+    "outer_diameter": 500,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 2647.73519639493,
+    "force_lbs": 595.2347017663478,
+    "force_kg": 269.9938507436209
+  },
+  "100_500_10_10": {
+    "inner_diameter": 100,
+    "outer_diameter": 500,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 1906.463944647065,
+    "force_lbs": 428.59025293216206,
+    "force_kg": 194.40521938144678
+  },
+  "100_500_10_20": {
+    "inner_diameter": 100,
+    "outer_diameter": 500,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 1213.79256941247,
+    "force_lbs": 272.87149373704796,
+    "force_kg": 123.7723962222033
+  },
+  "100_500_10_25": {
+    "inner_diameter": 100,
+    "outer_diameter": 500,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 1008.230246434866,
+    "force_lbs": 226.6592334707758,
+    "force_kg": 102.8108728704365
+  },
+  "100_500_25_1": {
+    "inner_diameter": 100,
+    "outer_diameter": 500,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 11356.87593991611,
+    "force_lbs": 2553.1279231766007,
+    "force_kg": 1158.0790524711406
+  },
+  "100_500_25_5": {
+    "inner_diameter": 100,
+    "outer_diameter": 500,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 8796.194856947746,
+    "force_lbs": 1977.463769595566,
+    "force_kg": 896.9622508142686
+  },
+  "100_500_25_10": {
+    "inner_diameter": 100,
+    "outer_diameter": 500,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 7020.76097335305,
+    "force_lbs": 1578.3302536585259,
+    "force_kg": 715.9183791970805
+  },
+  "100_500_25_20": {
+    "inner_diameter": 100,
+    "outer_diameter": 500,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 5011.34773093989,
+    "force_lbs": 1126.5960720448659,
+    "force_kg": 511.0152530109559
+  },
+  "100_500_25_25": {
+    "inner_diameter": 100,
+    "outer_diameter": 500,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 4364.8569691766,
+    "force_lbs": 981.2591303836223,
+    "force_kg": 445.091541879908
+  },
+  "100_500_50_1": {
+    "inner_diameter": 100,
+    "outer_diameter": 500,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 22638.08999466113,
+    "force_lbs": 5089.246373609774,
+    "force_kg": 2308.442739840938
+  },
+  "100_500_50_5": {
+    "inner_diameter": 100,
+    "outer_diameter": 500,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 19079.32200831351,
+    "force_lbs": 4289.203301366952,
+    "force_kg": 1945.5493984503894
+  },
+  "100_500_50_10": {
+    "inner_diameter": 100,
+    "outer_diameter": 500,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 16288.7388259986,
+    "force_lbs": 3661.8550867339195,
+    "force_kg": 1660.9891069833839
+  },
+  "100_500_50_20": {
+    "inner_diameter": 100,
+    "outer_diameter": 500,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 12642.05220893369,
+    "force_lbs": 2842.047115038174,
+    "force_kg": 1289.1305602763116
+  },
+  "100_500_50_25": {
+    "inner_diameter": 100,
+    "outer_diameter": 500,
+    "thickness": 50,
+    "gap": 25,
+    "force_N": 11354.03744022329,
+    "force_lbs": 2552.489802899158,
+    "force_kg": 1157.7896060554103
+  },
+  "200_220_10_1": {
+    "inner_diameter": 200,
+    "outer_diameter": 220,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 1797.193000371651,
+    "force_lbs": 404.0251612205505,
+    "force_kg": 183.26268403294205
+  },
+  "200_220_10_5": {
+    "inner_diameter": 200,
+    "outer_diameter": 220,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 765.8852063833011,
+    "force_lbs": 172.17788736182354,
+    "force_kg": 78.09855622289989
+  },
+  "200_220_10_10": {
+    "inner_diameter": 200,
+    "outer_diameter": 220,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 338.294568427252,
+    "force_lbs": 76.0516636335621,
+    "force_kg": 34.496445618764
+  },
+  "200_220_10_20": {
+    "inner_diameter": 200,
+    "outer_diameter": 220,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 100.418647115382,
+    "force_lbs": 22.57501563936191,
+    "force_kg": 10.23985225488643
+  },
+  "200_220_10_25": {
+    "inner_diameter": 200,
+    "outer_diameter": 220,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 62.81555842926478,
+    "force_lbs": 14.121502874924587,
+    "force_kg": 6.405404335758367
+  },
+  "200_220_25_1": {
+    "inner_diameter": 200,
+    "outer_diameter": 220,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 2689.398575332725,
+    "force_lbs": 604.6010043219746,
+    "force_kg": 274.2423330426522
+  },
+  "200_220_25_5": {
+    "inner_diameter": 200,
+    "outer_diameter": 220,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 1317.651226010515,
+    "force_lbs": 296.2198544681979,
+    "force_kg": 134.36303182131667
+  },
+  "200_220_25_10": {
+    "inner_diameter": 200,
+    "outer_diameter": 220,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 671.4423039710487,
+    "force_lbs": 150.9462729134275,
+    "force_kg": 68.46806034385327
+  },
+  "200_220_25_20": {
+    "inner_diameter": 200,
+    "outer_diameter": 220,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 259.7069164612686,
+    "force_lbs": 58.38445218274133,
+    "force_kg": 26.482735333805998
+  },
+  "200_220_25_25": {
+    "inner_diameter": 200,
+    "outer_diameter": 220,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 173.7872620303953,
+    "force_lbs": 39.06894058979114,
+    "force_kg": 17.721368870143763
+  },
+  "200_220_50_1": {
+    "inner_diameter": 200,
+    "outer_diameter": 220,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 3086.899407341584,
+    "force_lbs": 693.9627688650542,
+    "force_kg": 314.77613734981713
+  },
+  "200_220_50_5": {
+    "inner_diameter": 200,
+    "outer_diameter": 220,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 1631.023753533262,
+    "force_lbs": 366.6688190080591,
+    "force_kg": 166.31813652299837
+  },
+  "200_220_50_10": {
+    "inner_diameter": 200,
+    "outer_diameter": 220,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 911.9776800375491,
+    "force_lbs": 205.0207902715614,
+    "force_kg": 92.99584262082864
+  },
+  "200_220_50_20": {
+    "inner_diameter": 200,
+    "outer_diameter": 220,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 395.1705741170191,
+    "force_lbs": 88.83790159667295,
+    "force_kg": 40.29618413189205
+  },
+  "200_220_50_25": {
+    "inner_diameter": 200,
+    "outer_diameter": 220,
+    "thickness": 50,
+    "gap": 25,
+    "force_N": 286.0937065878794,
+    "force_lbs": 64.31644008431458,
+    "force_kg": 29.173439103861096
+  },
+  "200_300_10_1": {
+    "inner_diameter": 200,
+    "outer_diameter": 300,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 3367.289156251991,
+    "force_lbs": 756.9969079278538,
+    "force_kg": 343.36793464149235
+  },
+  "200_300_10_5": {
+    "inner_diameter": 200,
+    "outer_diameter": 300,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 2096.306951999631,
+    "force_lbs": 471.2686695720851,
+    "force_kg": 213.76381863323675
+  },
+  "200_300_10_10": {
+    "inner_diameter": 200,
+    "outer_diameter": 300,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 1413.722338354341,
+    "force_lbs": 317.81750516310103,
+    "force_kg": 144.159558906899
+  },
+  "200_300_10_20": {
+    "inner_diameter": 200,
+    "outer_diameter": 300,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 783.5476019956301,
+    "force_lbs": 176.1485528570356,
+    "force_kg": 79.89961933949209
+  },
+  "200_300_10_25": {
+    "inner_diameter": 200,
+    "outer_diameter": 300,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 615.7246447269985,
+    "force_lbs": 138.4204416564318,
+    "force_kg": 62.78644029581952
+  },
+  "200_300_25_1": {
+    "inner_diameter": 200,
+    "outer_diameter": 300,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 8408.80712875119,
+    "force_lbs": 1890.3755218074264,
+    "force_kg": 857.459696099197
+  },
+  "200_300_25_5": {
+    "inner_diameter": 200,
+    "outer_diameter": 300,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 6094.074237657404,
+    "force_lbs": 1370.0027352935235,
+    "force_kg": 621.4226303230364
+  },
+  "200_300_25_10": {
+    "inner_diameter": 200,
+    "outer_diameter": 300,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 4510.883804410531,
+    "force_lbs": 1014.0872771857272,
+    "force_kg": 459.9821350216977
+  },
+  "200_300_25_20": {
+    "inner_diameter": 200,
+    "outer_diameter": 300,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 2754.001172517897,
+    "force_lbs": 619.1242495925759,
+    "force_kg": 280.82996461767243
+  },
+  "200_300_25_25": {
+    "inner_diameter": 200,
+    "outer_diameter": 300,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 2195.198695287783,
+    "force_lbs": 493.5004234889512,
+    "force_kg": 223.84797002929471
+  },
+  "200_300_50_1": {
+    "inner_diameter": 200,
+    "outer_diameter": 300,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 13633.40787040362,
+    "force_lbs": 3064.9127899375676,
+    "force_kg": 1390.220704359146
+  },
+  "200_300_50_5": {
+    "inner_diameter": 200,
+    "outer_diameter": 300,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 10523.59379543106,
+    "force_lbs": 2365.798597557061,
+    "force_kg": 1073.1079211994984
+  },
+  "200_300_50_10": {
+    "inner_diameter": 200,
+    "outer_diameter": 300,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 8208.277557611817,
+    "force_lbs": 1845.294669449155,
+    "force_kg": 837.011370611964
+  },
+  "200_300_50_20": {
+    "inner_diameter": 200,
+    "outer_diameter": 300,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 5301.964791585136,
+    "force_lbs": 1191.9294028314628,
+    "force_kg": 540.6499458617506
+  },
+  "200_300_50_25": {
+    "inner_diameter": 200,
+    "outer_diameter": 300,
+    "thickness": 50,
+    "gap": 25,
+    "force_N": 4335.7254106521,
+    "force_lbs": 974.7100938432881,
+    "force_kg": 442.1209496262333
+  },
+  "200_400_10_1": {
+    "inner_diameter": 200,
+    "outer_diameter": 400,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 4167.770447099481,
+    "force_lbs": 936.9523064419873,
+    "force_kg": 424.994309687761
+  },
+  "200_400_10_5": {
+    "inner_diameter": 200,
+    "outer_diameter": 400,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 2659.980450616914,
+    "force_lbs": 597.9875451227379,
+    "force_kg": 271.24251916984025
+  },
+  "200_400_10_10": {
+    "inner_diameter": 200,
+    "outer_diameter": 400,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 1882.606079660526,
+    "force_lbs": 423.2267901624032,
+    "force_kg": 191.97239420806554
+  },
+  "200_400_10_20": {
+    "inner_diameter": 200,
+    "outer_diameter": 400,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 1152.016781242472,
+    "force_lbs": 258.9837405743389,
+    "force_kg": 117.4730189455596
+  },
+  "200_400_10_25": {
+    "inner_diameter": 200,
+    "outer_diameter": 400,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 940.7294728643417,
+    "force_lbs": 211.4844520651598,
+    "force_kg": 95.92770955059493
+  },
+  "200_400_25_1": {
+    "inner_diameter": 200,
+    "outer_diameter": 400,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 11168.16631703199,
+    "force_lbs": 2510.7043015656445,
+    "force_kg": 1138.8360262711517
+  },
+  "200_400_25_5": {
+    "inner_diameter": 200,
+    "outer_diameter": 400,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 8506.721131567789,
+    "force_lbs": 1912.387470866623,
+    "force_kg": 867.4441457141622
+  },
+  "200_400_25_10": {
+    "inner_diameter": 200,
+    "outer_diameter": 400,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 6684.795483075421,
+    "force_lbs": 1502.8021877547023,
+    "force_kg": 681.6594334533629
+  },
+  "200_400_25_20": {
+    "inner_diameter": 200,
+    "outer_diameter": 400,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 4605.546858300456,
+    "force_lbs": 1035.368383667667,
+    "force_kg": 469.6350801038536
+  },
+  "200_400_25_25": {
+    "inner_diameter": 200,
+    "outer_diameter": 400,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 3906.027843924099,
+    "force_lbs": 878.1102135647328,
+    "force_kg": 398.30399207926246
+  },
+  "200_400_50_1": {
+    "inner_diameter": 200,
+    "outer_diameter": 400,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 21000.23919712366,
+    "force_lbs": 4721.042773666173,
+    "force_kg": 2141.428438572159
+  },
+  "200_400_50_5": {
+    "inner_diameter": 200,
+    "outer_diameter": 400,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 17242.86338211835,
+    "force_lbs": 3876.3508740706443,
+    "force_kg": 1758.2827348909516
+  },
+  "200_400_50_10": {
+    "inner_diameter": 200,
+    "outer_diameter": 400,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 14290.43831376525,
+    "force_lbs": 3212.619146879252,
+    "force_kg": 1457.219163910739
+  },
+  "200_400_50_20": {
+    "inner_diameter": 200,
+    "outer_diameter": 400,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 10500.24887442442,
+    "force_lbs": 2360.5504492104797,
+    "force_kg": 1070.7274017553823
+  },
+  "200_600_10_1": {
+    "inner_diameter": 200,
+    "outer_diameter": 600,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 5545.163558800521,
+    "force_lbs": 1246.6026744903863,
+    "force_kg": 565.4493184523279
+  },
+  "200_600_10_5": {
+    "inner_diameter": 200,
+    "outer_diameter": 600,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 3581.784597802035,
+    "force_lbs": 805.2174136472777,
+    "force_kg": 365.24038257733633
+  },
+  "200_600_10_10": {
+    "inner_diameter": 200,
+    "outer_diameter": 600,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 2546.559540601182,
+    "force_lbs": 572.4895037630112,
+    "force_kg": 259.67680508646504
+  },
+  "200_600_10_20": {
+    "inner_diameter": 200,
+    "outer_diameter": 600,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 1614.320451199215,
+    "force_lbs": 362.9137663136444,
+    "force_kg": 164.61487370296842
+  },
+  "200_600_10_25": {
+    "inner_diameter": 200,
+    "outer_diameter": 600,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 1377.121260337287,
+    "force_lbs": 309.58925341516516,
+    "force_kg": 140.42728764025298
+  },
+  "200_600_25_1": {
+    "inner_diameter": 200,
+    "outer_diameter": 600,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 15397.02995702182,
+    "force_lbs": 3461.390907608118,
+    "force_kg": 1570.0601078882005
+  },
+  "200_600_25_5": {
+    "inner_diameter": 200,
+    "outer_diameter": 600,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 11796.42063556334,
+    "force_lbs": 2651.9415266603587,
+    "force_kg": 1202.9001377191335
+  },
+  "200_600_25_10": {
+    "inner_diameter": 200,
+    "outer_diameter": 600,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 9450.65119550873,
+    "force_lbs": 2124.591444611122,
+    "force_kg": 963.6982247259492
+  },
+  "200_600_25_20": {
+    "inner_diameter": 200,
+    "outer_diameter": 600,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 6867.274677566179,
+    "force_lbs": 1543.825152988975,
+    "force_kg": 700.2671327687008
+  },
+  "200_600_25_25": {
+    "inner_diameter": 200,
+    "outer_diameter": 600,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 5990.125594123509,
+    "force_lbs": 1346.6341446893118,
+    "force_kg": 610.8228186101787
+  },
+  "200_600_50_1": {
+    "inner_diameter": 200,
+    "outer_diameter": 600,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 30883.97434498612,
+    "force_lbs": 6942.995388521985,
+    "force_kg": 3149.288936077674
+  },
+  "200_600_50_5": {
+    "inner_diameter": 200,
+    "outer_diameter": 600,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 25999.2628579703,
+    "force_lbs": 5844.868283837446,
+    "force_kg": 2651.1869861747186
+  },
+  "200_600_50_10": {
+    "inner_diameter": 200,
+    "outer_diameter": 600,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 22227.0018691699,
+    "force_lbs": 4996.830063206216,
+    "force_kg": 2266.5234171883267
+  },
+  "200_600_50_20": {
+    "inner_diameter": 200,
+    "outer_diameter": 600,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 17461.10658653993,
+    "force_lbs": 3925.413910613455,
+    "force_kg": 1780.5373482830457
+  },
+  "200_600_50_25": {
+    "inner_diameter": 200,
+    "outer_diameter": 600,
+    "thickness": 50,
+    "gap": 25,
+    "force_N": 15669.42505872316,
+    "force_lbs": 3522.627778026495,
+    "force_kg": 1597.8366780422632
+  },
+  "400_420_10_1": {
+    "inner_diameter": 400,
+    "outer_diameter": 420,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 3561.102502138522,
+    "force_lbs": 800.5678924032591,
+    "force_kg": 363.13139575069187
+  },
+  "400_420_10_5": {
+    "inner_diameter": 400,
+    "outer_diameter": 420,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 1526.067634329065,
+    "force_lbs": 343.0737388058828,
+    "force_kg": 155.615590882622
+  },
+  "400_420_10_10": {
+    "inner_diameter": 400,
+    "outer_diameter": 420,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 693.2730158499943,
+    "force_lbs": 155.85401342022138,
+    "force_kg": 70.69417342823435
+  },
+  "400_420_10_20": {
+    "inner_diameter": 400,
+    "outer_diameter": 420,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 203.1066374620383,
+    "force_lbs": 45.66020006120337,
+    "force_kg": 20.711113118347072
+  },
+  "400_420_10_25": {
+    "inner_diameter": 400,
+    "outer_diameter": 420,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 125.4660329088757,
+    "force_lbs": 28.20589339221144,
+    "force_kg": 12.793974793520286
+  },
+  "400_420_25_1": {
+    "inner_diameter": 400,
+    "outer_diameter": 420,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 5331.351628773279,
+    "force_lbs": 1198.5358283128921,
+    "force_kg": 543.6465692946398
+  },
+  "400_420_25_5": {
+    "inner_diameter": 400,
+    "outer_diameter": 420,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 2612.611603265318,
+    "force_lbs": 587.3386019184729,
+    "force_kg": 266.4122410063904
+  },
+  "400_420_25_10": {
+    "inner_diameter": 400,
+    "outer_diameter": 420,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 1346.883255577587,
+    "force_lbs": 302.7914778031418,
+    "force_kg": 137.34386927009604
+  },
+  "400_420_25_20": {
+    "inner_diameter": 400,
+    "outer_diameter": 420,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 507.1165758980329,
+    "force_lbs": 114.00437031106088,
+    "force_kg": 51.71149943130763
+  },
+  "400_420_25_25": {
+    "inner_diameter": 400,
+    "outer_diameter": 420,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 328.1117221858918,
+    "force_lbs": 73.76246815288815,
+    "force_kg": 33.45808427810637
+  },
+  "400_420_50_1": {
+    "inner_diameter": 400,
+    "outer_diameter": 420,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 6069.204711685533,
+    "force_lbs": 1364.411842029313,
+    "force_kg": 618.8866444387771
+  },
+  "400_420_50_5": {
+    "inner_diameter": 400,
+    "outer_diameter": 420,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 3206.662079703169,
+    "force_lbs": 720.8864954759898,
+    "force_kg": 326.9885312214843
+  },
+  "400_420_50_10": {
+    "inner_diameter": 400,
+    "outer_diameter": 420,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 1788.657753036665,
+    "force_lbs": 402.10636080241966,
+    "force_kg": 182.39233102401587
+  },
+  "400_420_50_20": {
+    "inner_diameter": 400,
+    "outer_diameter": 420,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 776.9000804275653,
+    "force_lbs": 174.65413018084053,
+    "force_kg": 79.22176078758447
+  },
+  "400_420_50_25": {
+    "inner_diameter": 400,
+    "outer_diameter": 420,
+    "thickness": 50,
+    "gap": 25,
+    "force_N": 564.3278574424758,
+    "force_lbs": 126.86598130378553,
+    "force_kg": 57.545426566918955
+  },
+  "400_500_10_1": {
+    "inner_diameter": 400,
+    "outer_diameter": 500,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 6120.625443095476,
+    "force_lbs": 1375.9716852368508,
+    "force_kg": 624.1300997889673
+  },
+  "400_500_10_5": {
+    "inner_diameter": 400,
+    "outer_diameter": 500,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 3801.111571555013,
+    "force_lbs": 854.524091289711,
+    "force_kg": 387.60550968526593
+  },
+  "400_500_10_10": {
+    "inner_diameter": 400,
+    "outer_diameter": 500,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 2553.828015403003,
+    "force_lbs": 574.1235223147337,
+    "force_kg": 260.41798324636886
+  },
+  "400_500_10_20": {
+    "inner_diameter": 400,
+    "outer_diameter": 500,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 1416.910925902728,
+    "force_lbs": 318.53432834126636,
+    "force_kg": 144.48470434885797
+  },
+  "400_500_10_25": {
+    "inner_diameter": 400,
+    "outer_diameter": 500,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 1110.578317945742,
+    "force_lbs": 249.6680010790643,
+    "force_kg": 113.24747165910296
+  },
+  "400_500_25_1": {
+    "inner_diameter": 400,
+    "outer_diameter": 500,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 15137.58086550587,
+    "force_lbs": 3403.0644167935093,
+    "force_kg": 1543.6036633820795
+  },
+  "400_500_25_5": {
+    "inner_diameter": 400,
+    "outer_diameter": 500,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 11011.50204945586,
+    "force_lbs": 2475.4847642361224,
+    "force_kg": 1122.8607169069826
+  },
+  "400_500_25_10": {
+    "inner_diameter": 400,
+    "outer_diameter": 500,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 8174.435845699789,
+    "force_lbs": 1837.686748035924,
+    "force_kg": 833.5604763808018
+  },
+  "400_500_25_20": {
+    "inner_diameter": 400,
+    "outer_diameter": 500,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 5004.867821428063,
+    "force_lbs": 1125.1393300674213,
+    "force_kg": 510.3544861321718
+  },
+  "400_500_25_25": {
+    "inner_diameter": 400,
+    "outer_diameter": 500,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 4046.806830357343,
+    "force_lbs": 909.758596725804,
+    "force_kg": 412.6594535705203
+  },
+  "400_500_50_1": {
+    "inner_diameter": 400,
+    "outer_diameter": 500,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 24750.43623352965,
+    "force_lbs": 5564.120819223567,
+    "force_kg": 2523.8421105606553
+  },
+  "400_500_50_5": {
+    "inner_diameter": 400,
+    "outer_diameter": 500,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 19174.91160118198,
+    "force_lbs": 4310.69270215012,
+    "force_kg": 1955.2968242143832
+  },
+  "400_500_50_10": {
+    "inner_diameter": 400,
+    "outer_diameter": 500,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 14914.35335877325,
+    "force_lbs": 3352.8808642324557,
+    "force_kg": 1520.8407926022905
+  },
+  "400_500_50_20": {
+    "inner_diameter": 400,
+    "outer_diameter": 500,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 9740.302125537575,
+    "force_lbs": 2189.707580539977,
+    "force_kg": 993.2343996714042
+  },
+  "400_500_50_25": {
+    "inner_diameter": 400,
+    "outer_diameter": 500,
+    "thickness": 50,
+    "gap": 25,
+    "force_N": 8004.660540104615,
+    "force_lbs": 1799.5197313603785,
+    "force_kg": 816.2482132129337
+  },
+  "400_600_10_1": {
+    "inner_diameter": 400,
+    "outer_diameter": 600,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 6956.806061516873,
+    "force_lbs": 1563.9526138835467,
+    "force_kg": 709.3967931471883
+  },
+  "400_600_10_5": {
+    "inner_diameter": 400,
+    "outer_diameter": 600,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 4460.964057696016,
+    "force_lbs": 1002.8648688465838,
+    "force_kg": 454.89173751444343
+  },
+  "400_600_10_10": {
+    "inner_diameter": 400,
+    "outer_diameter": 600,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 3136.095227764179,
+    "force_lbs": 705.0224320584374,
+    "force_kg": 319.7927149193842
+  },
+  "400_600_10_20": {
+    "inner_diameter": 400,
+    "outer_diameter": 600,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 1939.520398989503,
+    "force_lbs": 436.0216413764312,
+    "force_kg": 197.77603962510165
+  },
+  "400_600_10_25": {
+    "inner_diameter": 400,
+    "outer_diameter": 600,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 1597.033434948801,
+    "force_lbs": 359.027489477405,
+    "force_kg": 162.8520886285124
+  },
+  "400_600_25_1": {
+    "inner_diameter": 400,
+    "outer_diameter": 600,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 18679.98791912847,
+    "force_lbs": 4199.429404111353,
+    "force_kg": 1904.8286539367136
+  },
+  "400_600_25_5": {
+    "inner_diameter": 400,
+    "outer_diameter": 600,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 14342.58253916778,
+    "force_lbs": 3224.3416380477697,
+    "force_kg": 1462.5363951163529
+  },
+  "400_600_25_10": {
+    "inner_diameter": 400,
+    "outer_diameter": 600,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 11218.54492615752,
+    "force_lbs": 2522.029866304546,
+    "force_kg": 1143.97321472241
+  },
+  "400_600_25_20": {
+    "inner_diameter": 400,
+    "outer_diameter": 600,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 7797.62410208558,
+    "force_lbs": 1752.9760767657572,
+    "force_kg": 795.1363719604126
+  },
+  "400_600_25_25": {
+    "inner_diameter": 400,
+    "outer_diameter": 600,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 6684.41834140208,
+    "force_lbs": 1502.7174029122602,
+    "force_kg": 681.6209757054734
+  },
+  "400_600_50_1": {
+    "inner_diameter": 400,
+    "outer_diameter": 600,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 35416.81634318584,
+    "force_lbs": 7962.019065295266,
+    "force_kg": 3611.5101837208267
+  },
+  "400_600_50_5": {
+    "inner_diameter": 400,
+    "outer_diameter": 600,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 29342.17043865447,
+    "force_lbs": 6596.383994143473,
+    "force_kg": 2992.0686920257654
+  },
+  "400_600_50_10": {
+    "inner_diameter": 400,
+    "outer_diameter": 600,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 24375.77750639234,
+    "force_lbs": 5479.894165434555,
+    "force_kg": 2485.6375527210967
+  },
+  "400_600_50_20": {
+    "inner_diameter": 400,
+    "outer_diameter": 600,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 18045.23709603364,
+    "force_lbs": 4056.731706322227,
+    "force_kg": 1840.1020833856253
+  },
+  "400_600_50_25": {
+    "inner_diameter": 400,
+    "outer_diameter": 600,
+    "thickness": 50,
+    "gap": 25,
+    "force_N": 15796.52375085625,
+    "force_lbs": 3551.2007079062428,
+    "force_kg": 1610.7971377439035
+  },
+  "400_800_10_1": {
+    "inner_diameter": 400,
+    "outer_diameter": 800,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 8563.48642163055,
+    "force_lbs": 1925.1488189603424,
+    "force_kg": 873.2325943753016
+  },
+  "400_800_10_5": {
+    "inner_diameter": 400,
+    "outer_diameter": 800,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 5424.93950735241,
+    "force_lbs": 1219.575225708388,
+    "force_kg": 553.1898770071748
+  },
+  "400_800_10_10": {
+    "inner_diameter": 400,
+    "outer_diameter": 800,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 3817.466046983889,
+    "force_lbs": 858.2007245564012,
+    "force_kg": 389.27320206022335
+  },
+  "400_800_10_20": {
+    "inner_diameter": 400,
+    "outer_diameter": 800,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 2503.545387564308,
+    "force_lbs": 562.8195350329445,
+    "force_kg": 255.2905821625436
+  },
+  "400_800_10_25": {
+    "inner_diameter": 400,
+    "outer_diameter": 800,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 2081.685354842735,
+    "force_lbs": 467.9816029368404,
+    "force_kg": 212.27283066518484
+  },
+  "400_800_25_1": {
+    "inner_diameter": 400,
+    "outer_diameter": 800,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 23156.52038334601,
+    "force_lbs": 5205.794190859634,
+    "force_kg": 2361.3079271051797
+  },
+  "400_800_25_5": {
+    "inner_diameter": 400,
+    "outer_diameter": 800,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 17951.62102408189,
+    "force_lbs": 4035.685970802826,
+    "force_kg": 1830.5559007491745
+  },
+  "400_800_25_10": {
+    "inner_diameter": 400,
+    "outer_diameter": 800,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 14428.61987470027,
+    "force_lbs": 3243.6836054114933,
+    "force_kg": 1471.309761712743
+  },
+  "400_800_25_20": {
+    "inner_diameter": 400,
+    "outer_diameter": 800,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 10463.33448165068,
+    "force_lbs": 2352.2517614854078,
+    "force_kg": 1066.9631812750206
+  },
+  "400_800_25_25": {
+    "inner_diameter": 400,
+    "outer_diameter": 800,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 9118.463670297067,
+    "force_lbs": 2049.9126992558135,
+    "force_kg": 929.8245242052146
+  },
+  "400_800_50_1": {
+    "inner_diameter": 400,
+    "outer_diameter": 800,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 46957.29700250024,
+    "force_lbs": 10556.422981835078,
+    "force_kg": 4788.311707106937
+  },
+  "400_800_50_5": {
+    "inner_diameter": 400,
+    "outer_diameter": 800,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 39721.83322695096,
+    "force_lbs": 8929.82560591762,
+    "force_kg": 4050.4997350727276
+  },
+  "400_800_50_10": {
+    "inner_diameter": 400,
+    "outer_diameter": 800,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 34027.34963016909,
+    "force_lbs": 7649.654443008683,
+    "force_kg": 3469.8240102551936
+  },
+  "400_800_50_20": {
+    "inner_diameter": 400,
+    "outer_diameter": 800,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 26743.10449456517,
+    "force_lbs": 6012.090578318702,
+    "force_kg": 2727.037723847101
+  },
+  "400_800_50_25": {
+    "inner_diameter": 400,
+    "outer_diameter": 800,
+    "thickness": 50,
+    "gap": 25,
+    "force_N": 24201.3935855867,
+    "force_lbs": 5440.6910905821605,
+    "force_kg": 2467.8553415882793
+  },
+  "800_820_10_1": {
+    "inner_diameter": 800,
+    "outer_diameter": 820,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 7275.842001364199,
+    "force_lbs": 1635.6747644846844,
+    "force_kg": 741.9294051856851
+  },
+  "800_820_10_5": {
+    "inner_diameter": 800,
+    "outer_diameter": 820,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 2990.357678712909,
+    "force_lbs": 672.2593193937704,
+    "force_kg": 304.9316207586596
+  },
+  "800_820_10_10": {
+    "inner_diameter": 800,
+    "outer_diameter": 820,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 1316.661898279452,
+    "force_lbs": 295.9974446903054,
+    "force_kg": 134.2621484685853
+  },
+  "800_820_10_20": {
+    "inner_diameter": 800,
+    "outer_diameter": 820,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 413.7348434512845,
+    "force_lbs": 93.01131642143983,
+    "force_kg": 42.18921277411599
+  },
+  "800_820_10_25": {
+    "inner_diameter": 800,
+    "outer_diameter": 820,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 279.5302602842705,
+    "force_lbs": 62.84091828424658,
+    "force_kg": 28.504153842981093
+  },
+  "800_820_25_1": {
+    "inner_diameter": 800,
+    "outer_diameter": 820,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 10682.09120490005,
+    "force_lbs": 2401.4302416823757,
+    "force_kg": 1089.2701590145516
+  },
+  "800_820_25_5": {
+    "inner_diameter": 800,
+    "outer_diameter": 820,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 5177.532936557328,
+    "force_lbs": 1163.9560019345163,
+    "force_kg": 527.9614278634731
+  },
+  "800_820_25_10": {
+    "inner_diameter": 800,
+    "outer_diameter": 820,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 2656.369041952344,
+    "force_lbs": 597.1756679522646,
+    "force_kg": 270.8742579731452
+  },
+  "800_820_25_20": {
+    "inner_diameter": 800,
+    "outer_diameter": 820,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 1013.192591731016,
+    "force_lbs": 227.774813354458,
+    "force_kg": 103.3168912657244
+  },
+  "800_820_25_25": {
+    "inner_diameter": 800,
+    "outer_diameter": 820,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 724.7617303413481,
+    "force_lbs": 162.93295983630813,
+    "force_kg": 73.905128697501
+  },
+  "800_820_50_1": {
+    "inner_diameter": 800,
+    "outer_diameter": 820,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 12266.09110950741,
+    "force_lbs": 2757.5276762372514,
+    "force_kg": 1250.7931974229132
+  },
+  "800_820_50_5": {
+    "inner_diameter": 800,
+    "outer_diameter": 820,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 6405.317255384464,
+    "force_lbs": 1439.972966865726,
+    "force_kg": 653.1605854582823
+  },
+  "800_820_50_10": {
+    "inner_diameter": 800,
+    "outer_diameter": 820,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 3719.013598268499,
+    "force_lbs": 836.0677280131431,
+    "force_kg": 379.23384624397727
+  },
+  "800_820_50_20": {
+    "inner_diameter": 800,
+    "outer_diameter": 820,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 1638.066329075969,
+    "force_lbs": 368.2520533732395,
+    "force_kg": 167.0362793692004
+  },
+  "800_820_50_25": {
+    "inner_diameter": 800,
+    "outer_diameter": 820,
+    "thickness": 50,
+    "gap": 25,
+    "force_N": 1160.71399029277,
+    "force_lbs": 260.9389514437273,
+    "force_kg": 118.35988745318431
+  },
+  "800_900_10_1": {
+    "inner_diameter": 800,
+    "outer_diameter": 900,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 11787.75510244029,
+    "force_lbs": 2649.993436824499,
+    "force_kg": 1202.0164992571663
+  },
+  "800_900_10_5": {
+    "inner_diameter": 800,
+    "outer_diameter": 900,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 7191.225652248275,
+    "force_lbs": 1616.6522476562825,
+    "force_kg": 733.3009388780343
+  },
+  "800_900_10_10": {
+    "inner_diameter": 800,
+    "outer_diameter": 900,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 4861.70921136848,
+    "force_lbs": 1092.9559860985366,
+    "force_kg": 495.7563705616577
+  },
+  "800_900_10_20": {
+    "inner_diameter": 800,
+    "outer_diameter": 900,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 2710.638939785206,
+    "force_lbs": 609.3760294141723,
+    "force_kg": 276.40824744282764
+  },
+  "800_900_10_25": {
+    "inner_diameter": 800,
+    "outer_diameter": 900,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 2126.075369988339,
+    "force_lbs": 477.9608778517085,
+    "force_kg": 216.79935247901568
+  },
+  "800_900_25_1": {
+    "inner_diameter": 800,
+    "outer_diameter": 900,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 28779.08511598736,
+    "force_lbs": 6469.797345840003,
+    "force_kg": 2934.6499687444093
+  },
+  "800_900_25_5": {
+    "inner_diameter": 800,
+    "outer_diameter": 900,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 20805.18930556833,
+    "force_lbs": 4677.1938025955105,
+    "force_kg": 2121.538884896303
+  },
+  "800_900_25_10": {
+    "inner_diameter": 800,
+    "outer_diameter": 900,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 15503.41784175743,
+    "force_lbs": 3485.307861587646,
+    "force_kg": 1580.9086529811332
+  },
+  "800_900_25_20": {
+    "inner_diameter": 800,
+    "outer_diameter": 900,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 9609.75191423464,
+    "force_lbs": 2160.358718087175,
+    "force_kg": 979.9219829640743
+  },
+  "800_900_25_25": {
+    "inner_diameter": 800,
+    "outer_diameter": 900,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 7606.229237836705,
+    "force_lbs": 1709.948788728832,
+    "force_kg": 775.6195273448839
+  },
+  "800_900_50_1": {
+    "inner_diameter": 800,
+    "outer_diameter": 900,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 47106.17820991349,
+    "force_lbs": 10589.892817192442,
+    "force_kg": 4803.493365207639
+  },
+  "800_900_50_5": {
+    "inner_diameter": 800,
+    "outer_diameter": 900,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 36483.53291412495,
+    "force_lbs": 8201.826550891517,
+    "force_kg": 3720.28500192471
+  },
+  "800_900_50_10": {
+    "inner_diameter": 800,
+    "outer_diameter": 900,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 28439.86721359101,
+    "force_lbs": 6393.538108420182,
+    "force_kg": 2900.059369263817
+  },
+  "800_900_50_20": {
+    "inner_diameter": 800,
+    "outer_diameter": 900,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 18757.78953412514,
+    "force_lbs": 4216.919907377139,
+    "force_kg": 1912.7622107575105
+  },
+  "800_900_50_25": {
+    "inner_diameter": 800,
+    "outer_diameter": 900,
+    "thickness": 50,
+    "gap": 25,
+    "force_N": 15533.36053086302,
+    "force_lbs": 3492.039247582785,
+    "force_kg": 1583.961957535246
+  },
+  "800_1000_10_1": {
+    "inner_diameter": 800,
+    "outer_diameter": 1000,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 12817.31155556749,
+    "force_lbs": 2881.446993495572,
+    "force_kg": 1307.002040000152
+  },
+  "800_1000_10_5": {
+    "inner_diameter": 800,
+    "outer_diameter": 1000,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 8139.429399475323,
+    "force_lbs": 1829.8169838666481,
+    "force_kg": 829.990812303419
+  },
+  "800_1000_10_10": {
+    "inner_diameter": 800,
+    "outer_diameter": 1000,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 5685.79460401635,
+    "force_lbs": 1278.2177991343117,
+    "force_kg": 579.7896941377892
+  },
+  "800_1000_10_20": {
+    "inner_diameter": 800,
+    "outer_diameter": 1000,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 3531.692481742081,
+    "force_lbs": 793.9562551279555,
+    "force_kg": 360.13240828846557
+  },
+  "800_1000_10_25": {
+    "inner_diameter": 800,
+    "outer_diameter": 1000,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 2901.319718705891,
+    "force_lbs": 652.2427846425527,
+    "force_kg": 295.85227561969594
+  },
+  "800_1000_25_1": {
+    "inner_diameter": 800,
+    "outer_diameter": 1000,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 33918.78612603541,
+    "force_lbs": 7625.248390207895,
+    "force_kg": 3458.7536137249126
+  },
+  "800_1000_25_5": {
+    "inner_diameter": 800,
+    "outer_diameter": 1000,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 25751.60079961333,
+    "force_lbs": 5789.191624160273,
+    "force_kg": 2625.9324845501096
+  },
+  "800_1000_25_10": {
+    "inner_diameter": 800,
+    "outer_diameter": 1000,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 20085.72015841125,
+    "force_lbs": 4515.450663092275,
+    "force_kg": 2048.1734494869556
+  },
+  "800_1000_25_20": {
+    "inner_diameter": 800,
+    "outer_diameter": 1000,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 14120.47514863503,
+    "force_lbs": 3174.409897689493,
+    "force_kg": 1439.8877444015063
+  },
+  "800_1000_25_25": {
+    "inner_diameter": 800,
+    "outer_diameter": 1000,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 11949.91451326135,
+    "force_lbs": 2686.448331811771,
+    "force_kg": 1218.5521572872847
+  },
+  "800_1000_50_1": {
+    "inner_diameter": 800,
+    "outer_diameter": 1000,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 64293.86969321425,
+    "force_lbs": 14453.840551861802,
+    "force_kg": 6556.150132126083
+  },
+  "800_1000_50_5": {
+    "inner_diameter": 800,
+    "outer_diameter": 1000,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 53028.8748686933,
+    "force_lbs": 11921.368330356074,
+    "force_kg": 5407.440345958437
+  },
+  "800_1000_50_10": {
+    "inner_diameter": 800,
+    "outer_diameter": 1000,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 44042.99892590404,
+    "force_lbs": 9901.262545533562,
+    "force_kg": 4491.136007291383
+  },
+  "800_1000_50_20": {
+    "inner_diameter": 800,
+    "outer_diameter": 1000,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 32696.25470743743,
+    "force_lbs": 7350.412324524302,
+    "force_kg": 3334.090102882986
+  },
+  "800_1000_50_25": {
+    "inner_diameter": 800,
+    "outer_diameter": 1000,
+    "thickness": 50,
+    "gap": 25,
+    "force_N": 28880.30595462511,
+    "force_lbs": 6492.5527013533165,
+    "force_kg": 2944.971621769423
+  },
+  "800_1200_10_1": {
+    "inner_diameter": 800,
+    "outer_diameter": 1200,
+    "thickness": 10,
+    "gap": 1,
+    "force_N": 14212.26456034862,
+    "force_lbs": 3195.044983547413,
+    "force_kg": 1449.2476595319115
+  },
+  "800_1200_10_5": {
+    "inner_diameter": 800,
+    "outer_diameter": 1200,
+    "thickness": 10,
+    "gap": 5,
+    "force_N": 9058.156632573779,
+    "force_lbs": 2036.3551344122786,
+    "force_kg": 923.6749177929037
+  },
+  "800_1200_10_10": {
+    "inner_diameter": 800,
+    "outer_diameter": 1200,
+    "thickness": 10,
+    "gap": 10,
+    "force_N": 6494.074108089355,
+    "force_lbs": 1459.92630616546,
+    "force_kg": 662.2112656298895
+  },
+  "800_1200_10_20": {
+    "inner_diameter": 800,
+    "outer_diameter": 1200,
+    "thickness": 10,
+    "gap": 20,
+    "force_N": 4145.161703207103,
+    "force_lbs": 931.8696573362855,
+    "force_kg": 422.6888594175486
+  },
+  "800_1200_10_25": {
+    "inner_diameter": 800,
+    "outer_diameter": 1200,
+    "thickness": 10,
+    "gap": 25,
+    "force_N": 3447.958886137839,
+    "force_lbs": 775.1321892337614,
+    "force_kg": 351.5939577876073
+  },
+  "800_1200_25_1": {
+    "inner_diameter": 800,
+    "outer_diameter": 1200,
+    "thickness": 25,
+    "gap": 1,
+    "force_N": 38796.36744597409,
+    "force_lbs": 8721.772569161989,
+    "force_kg": 3956.1284889308877
+  },
+  "800_1200_25_5": {
+    "inner_diameter": 800,
+    "outer_diameter": 1200,
+    "thickness": 25,
+    "gap": 5,
+    "force_N": 29765.57143023552,
+    "force_lbs": 6691.568347659817,
+    "force_kg": 3035.243577596378
+  },
+  "800_1200_25_10": {
+    "inner_diameter": 800,
+    "outer_diameter": 1200,
+    "thickness": 25,
+    "gap": 10,
+    "force_N": 24191.17037323274,
+    "force_lbs": 5438.392820436079,
+    "force_kg": 2466.8128640496748
+  },
+  "800_1200_25_20": {
+    "inner_diameter": 800,
+    "outer_diameter": 1200,
+    "thickness": 25,
+    "gap": 20,
+    "force_N": 17464.06074826492,
+    "force_lbs": 3926.078032756689,
+    "force_kg": 1780.838588943719
+  },
+  "800_1200_25_25": {
+    "inner_diameter": 800,
+    "outer_diameter": 1200,
+    "thickness": 25,
+    "gap": 25,
+    "force_N": 15372.29531265114,
+    "force_lbs": 3455.8303369417904,
+    "force_kg": 1567.537876099498
+  },
+  "800_1200_50_1": {
+    "inner_diameter": 800,
+    "outer_diameter": 1200,
+    "thickness": 50,
+    "gap": 1,
+    "force_N": 78639.03965643924,
+    "force_lbs": 17678.76386612445,
+    "force_kg": 8018.950371068535
+  },
+  "800_1200_50_5": {
+    "inner_diameter": 800,
+    "outer_diameter": 1200,
+    "thickness": 50,
+    "gap": 5,
+    "force_N": 66097.57317452348,
+    "force_lbs": 14859.329327791449,
+    "force_kg": 6740.076700455658
+  },
+  "800_1200_50_10": {
+    "inner_diameter": 800,
+    "outer_diameter": 1200,
+    "thickness": 50,
+    "gap": 10,
+    "force_N": 57365.92239621315,
+    "force_lbs": 12896.375647970282,
+    "force_kg": 5849.696113985219
+  },
+  "800_1200_50_20": {
+    "inner_diameter": 800,
+    "outer_diameter": 1200,
+    "thickness": 50,
+    "gap": 20,
+    "force_N": 44872.40912076901,
+    "force_lbs": 10087.72142203096,
+    "force_kg": 4575.712309582682
+  },
+  "800_1200_50_25": {
+    "inner_diameter": 800,
+    "outer_diameter": 1200,
+    "thickness": 50,
+    "gap": 25,
+    "force_N": 40461.54997877897,
+    "force_lbs": 9096.120589179322,
+    "force_kg": 4125.929851557767
+  }
+}
