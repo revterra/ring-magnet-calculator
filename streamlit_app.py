@@ -118,7 +118,7 @@ def calculate_field(id_val, od_val, thickness, gap):
     z_max = 2 * thickness + gap + thickness * 0.3
     z_min = -thickness * 0.2
 
-    n_r, n_z = 80, 100
+    n_r, n_z = 60, 80
     r_vals_mm = np.linspace(0.5, r_max, n_r)
     z_vals_mm = np.linspace(z_min, z_max, n_z)
 
@@ -135,94 +135,96 @@ def calculate_field(id_val, od_val, thickness, gap):
 
 def plot_geometry(id_val, od_val, thickness, gap):
     """Create geometry cross-section plot."""
-    fig, ax = plt.subplots(figsize=(6, 5))
-    ax.set_title("Cross-Section (Axisymmetric)")
-    ax.set_xlabel("r (mm)")
-    ax.set_ylabel("z (mm)")
+    fig, ax = plt.subplots(figsize=(3, 2.5))
+    ax.set_title("Cross-Section", fontsize=9)
+    ax.set_xlabel("r (mm)", fontsize=8)
+    ax.set_ylabel("z (mm)", fontsize=8)
+    ax.tick_params(labelsize=7)
 
     inner_r = id_val / 2
     outer_r = od_val / 2
 
     # Magnet 1 (bottom)
     mag1 = patches.Rectangle((inner_r, 0), outer_r - inner_r, thickness,
-                               linewidth=2, edgecolor='darkblue', facecolor='royalblue', alpha=0.8)
+                               linewidth=1.5, edgecolor='darkblue', facecolor='royalblue', alpha=0.8)
     ax.add_patch(mag1)
 
     # Magnet 2 (top)
     mag2 = patches.Rectangle((inner_r, thickness + gap), outer_r - inner_r, thickness,
-                               linewidth=2, edgecolor='darkred', facecolor='indianred', alpha=0.8)
+                               linewidth=1.5, edgecolor='darkred', facecolor='indianred', alpha=0.8)
     ax.add_patch(mag2)
 
     # N/S labels
     mid_r = (inner_r + outer_r) / 2
-    if thickness > 5:
-        ax.annotate('N', (mid_r, thickness - 2), ha='center', fontsize=9, fontweight='bold', color='white')
-        ax.annotate('S', (mid_r, 2), ha='center', fontsize=9, fontweight='bold', color='white')
-        ax.annotate('S', (mid_r, thickness + gap + 2), ha='center', fontsize=9, fontweight='bold', color='white')
-        ax.annotate('N', (mid_r, 2 * thickness + gap - 2), ha='center', fontsize=9, fontweight='bold', color='white')
+    if thickness > 8:
+        ax.annotate('N', (mid_r, thickness - 2), ha='center', fontsize=7, fontweight='bold', color='white')
+        ax.annotate('S', (mid_r, 2), ha='center', fontsize=7, fontweight='bold', color='white')
+        ax.annotate('S', (mid_r, thickness + gap + 2), ha='center', fontsize=7, fontweight='bold', color='white')
+        ax.annotate('N', (mid_r, 2 * thickness + gap - 2), ha='center', fontsize=7, fontweight='bold', color='white')
 
-    # Gap annotation
-    ax.annotate('', xy=(outer_r + 5, thickness), xytext=(outer_r + 5, thickness + gap),
-                arrowprops=dict(arrowstyle='<->', color='green', lw=1.5))
-    ax.text(outer_r + 8, thickness + gap / 2, f'{gap}mm', fontsize=8, color='green', va='center')
+    ax.axvline(x=0, color='gray', linestyle='--', linewidth=0.5, alpha=0.5)
 
-    ax.axvline(x=0, color='gray', linestyle='--', linewidth=1, alpha=0.5)
-
-    max_z = 2 * thickness + gap + 10
-    ax.set_xlim(-5, outer_r + 25)
-    ax.set_ylim(-5, max_z)
+    max_z = 2 * thickness + gap + 5
+    ax.set_xlim(-2, outer_r + 10)
+    ax.set_ylim(-2, max_z)
     ax.set_aspect('equal')
-    ax.grid(True, alpha=0.3)
+    ax.grid(True, alpha=0.3, linewidth=0.5)
+    fig.tight_layout()
 
     return fig
 
 
 def plot_force_curve(gaps, forces, current_gap, current_force):
     """Create force vs gap plot."""
-    fig, ax = plt.subplots(figsize=(6, 5))
-    ax.set_title("Force vs Gap (FEMM Data)")
-    ax.set_xlabel("Gap (mm)")
-    ax.set_ylabel("Force (N)")
+    fig, ax = plt.subplots(figsize=(3, 2.5))
+    ax.set_title("Force vs Gap", fontsize=9)
+    ax.set_xlabel("Gap (mm)", fontsize=8)
+    ax.set_ylabel("Force (N)", fontsize=8)
+    ax.tick_params(labelsize=7)
 
     if gaps and forces:
-        ax.plot(gaps, forces, 'b-', linewidth=2)
-        ax.plot(gaps, forces, 'bo', markersize=8, label='FEMM data')
+        ax.plot(gaps, forces, 'b-', linewidth=1.5)
+        ax.plot(gaps, forces, 'bo', markersize=5, label='FEMM data')
 
         if current_force and current_force > 0:
-            ax.plot(current_gap, current_force, 'ro', markersize=12,
-                    label=f'Current: {current_force:.1f} N', zorder=5)
+            ax.plot(current_gap, current_force, 'ro', markersize=8,
+                    label=f'{current_force:.0f} N', zorder=5)
 
-        ax.legend(fontsize=8)
+        ax.legend(fontsize=6)
         ax.set_ylim(0, max(forces) * 1.1)
 
-    ax.grid(True, alpha=0.3)
+    ax.grid(True, alpha=0.3, linewidth=0.5)
     ax.set_xlim(0, 27)
+    fig.tight_layout()
 
     return fig
 
 
 def plot_field(R_mm, Z_mm, B_mag, inner_r, outer_r, thickness, gap):
     """Create magnetic field contour plot."""
-    fig, ax = plt.subplots(figsize=(6, 5))
-    ax.set_title("Magnetic Field |B| (Tesla)")
-    ax.set_xlabel("r (mm)")
-    ax.set_ylabel("z (mm)")
+    fig, ax = plt.subplots(figsize=(3.5, 2.5))
+    ax.set_title("Magnetic Field |B|", fontsize=9)
+    ax.set_xlabel("r (mm)", fontsize=8)
+    ax.set_ylabel("z (mm)", fontsize=8)
+    ax.tick_params(labelsize=7)
 
     B_plot = np.clip(B_mag, 0, 2.0)
     im = ax.pcolormesh(R_mm, Z_mm, B_plot, cmap='hot', shading='auto',
                        vmin=0, vmax=min(1.5, np.max(B_plot) * 1.1))
 
-    plt.colorbar(im, ax=ax, label='|B| (T)')
+    cbar = plt.colorbar(im, ax=ax, label='T')
+    cbar.ax.tick_params(labelsize=6)
 
     # Magnet outlines
     ax.plot([inner_r, outer_r, outer_r, inner_r, inner_r],
-            [0, 0, thickness, thickness, 0], 'c-', linewidth=2)
+            [0, 0, thickness, thickness, 0], 'c-', linewidth=1.5)
     ax.plot([inner_r, outer_r, outer_r, inner_r, inner_r],
             [thickness + gap, thickness + gap, 2 * thickness + gap, 2 * thickness + gap, thickness + gap],
-            'c-', linewidth=2)
+            'c-', linewidth=1.5)
 
     ax.set_xlim(0, R_mm.max())
     ax.set_ylim(Z_mm.min(), Z_mm.max())
+    fig.tight_layout()
 
     return fig
 
@@ -230,7 +232,6 @@ def plot_field(R_mm, Z_mm, B_mag, inner_r, outer_r, thickness, gap):
 # Main app
 def main():
     st.title("🧲 Ring Magnet Force Calculator")
-    st.markdown("Calculate attraction force between two identical ring magnets using pre-computed FEMM simulation data.")
 
     # Load data
     sweep_data, force_lookup, id_values, thickness_values, gap_values, id_to_ods = load_sweep_data()
@@ -268,8 +269,8 @@ def main():
     st.sidebar.caption(f"**Material:** N42 NdFeB (Br = {BR_N42} T)")
     st.sidebar.caption(f"**Data points:** {len(sweep_data)}")
 
-    # Main content - plots
-    col1, col2 = st.columns(2)
+    # Main content - all 3 plots in a row
+    col1, col2, col3 = st.columns(3)
 
     with col1:
         st.pyplot(plot_geometry(id_val, od_val, thickness, gap))
@@ -278,21 +279,15 @@ def main():
         gaps, forces = get_force_curve(force_lookup, gap_values, id_val, od_val, thickness)
         st.pyplot(plot_force_curve(gaps, forces, gap, force))
 
-    # Field plot (full width)
-    st.subheader("Magnetic Field Distribution")
-    with st.spinner("Calculating field..."):
-        R_mm, Z_mm, B_mag, inner_r, outer_r = calculate_field(id_val, od_val, thickness, gap)
-        st.pyplot(plot_field(R_mm, Z_mm, B_mag, inner_r, outer_r, thickness, gap))
+    with col3:
+        with st.spinner("Calculating..."):
+            R_mm, Z_mm, B_mag, inner_r, outer_r = calculate_field(id_val, od_val, thickness, gap)
+            st.pyplot(plot_field(R_mm, Z_mm, B_mag, inner_r, outer_r, thickness, gap))
 
-    # Configuration summary
-    with st.expander("Configuration Details"):
-        wall = (od_val - id_val) / 2
-        volume = np.pi * ((od_val / 2) ** 2 - (id_val / 2) ** 2) * thickness / 1000
-
-        col1, col2, col3 = st.columns(3)
-        col1.metric("Wall Thickness", f"{wall:.1f} mm")
-        col2.metric("Volume (each)", f"{volume:.2f} cm³")
-        col3.metric("Gap", f"{gap} mm")
+    # Configuration summary (compact)
+    wall = (od_val - id_val) / 2
+    volume = np.pi * ((od_val / 2) ** 2 - (id_val / 2) ** 2) * thickness / 1000
+    st.caption(f"Wall: {wall:.0f}mm | Volume: {volume:.1f}cm³ | Gap: {gap}mm")
 
 
 if __name__ == '__main__':
